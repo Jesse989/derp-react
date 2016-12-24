@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+body {
+    margin: 0;
+    padding: 0px;
+    font-family: Shadows Into Light;
+    letter-spacing: 2px;
+}
+
+#content {
+    margin-top: 50px;
+}
+
+#post-stream {
+    margin-top: 60px;
+    padding: 2px;
+}
+
+#birdLogo {
+    margin: -18px auto;
+    height: 55px;
+}
+
+#chirp {
+    margin: -20px 0 0 100px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.container {
+    font-size: 20px;
+}
+
+.odd {
+    color: mediumblue;
+}
+
+.btn {
+    margin: 0px 5px 15px 5px;
+    font-size: 18px;
+}
